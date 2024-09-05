@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :woman_technologist: About Me :
 - 👋 Hi, I’m @ahmedmangood
-- 👀 I’m currently working as a Web Developer Using Next.js.
+- 👀 I’m currently working as a FullStack Developer Using Next.js.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
